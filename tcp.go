@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/EKyero/shadowsocks-multiuser/socks"
+	"github.com/eddycat/shadowsocks-multiuser/socks"
 )
 
 func tcpRemote(instance *Instance, cipher func(net.Conn) net.Conn) {

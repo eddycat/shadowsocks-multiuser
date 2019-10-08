@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/EKyero/shadowsocks-multiuser/socks"
+	"github.com/eddycat/shadowsocks-multiuser/socks"
 )
 
 const udpBufferSize = 64 * 1024

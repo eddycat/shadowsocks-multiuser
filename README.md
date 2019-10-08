@@ -46,7 +46,7 @@ Usage of shadowsocks-multiuser:
 ## Ubuntu 自动安装脚本
 1. 运行脚本
 ```bash
-curl -fsSL https://raw.githubusercontent.com/EKyero/shadowsocks-multiuser/master/scripts/Ubuntu.sh | bash
+curl -fsSL https://raw.githubusercontent.com/eddycat/shadowsocks-multiuser/master/scripts/Ubuntu.sh | bash
 ```
 
 2. 编辑配置文件调整参数
